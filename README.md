@@ -1,5 +1,5 @@
-ResourceFileNewLine
-===================
+.NET Resource File NewLine
+==========================
 
 
 Carriage Returns and Line Feeds cannot be inlined into .Net Resource Files. 
